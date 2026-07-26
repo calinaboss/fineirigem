@@ -1,5 +1,5 @@
-const dataFine = new Date('June 11, 2026 12:25:00').getTime();
-const giorniFestivi = ['2026-06-01', '2026-06-02'];
+const dataFine = new Date('September 15, 2026 8:15:00').getTime();
+const giorniFestivi = ['2026-06-01', '2026-06-02',];
 let modalitaCorrente = 'all';
 
 function setMode(modalita) {
