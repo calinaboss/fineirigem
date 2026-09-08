@@ -1,4 +1,4 @@
-const dataFine = new Date('September 15, 2026 8:15:00').getTime();
+const dataFine = new Date('September 14, 2026 8:15:00').getTime();
 const giorniFestivi = ['2026-06-01', '2026-06-02',];
 let modalitaCorrente = 'all';
 
