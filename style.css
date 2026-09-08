@@ -1,94 +1,101 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
-    background-color: #0a0a0a;
+    background-color: #020202;
     margin: 0;
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    color: #ffffff;
-    padding: 15px;
-    box-sizing: border-box;
+    color: #0f172a;
+    padding: 20px 15px;
 }
 
 .contenitore-app {
-    background: #111111;
+    background: #ffffff;
     width: 100%;
     max-width: 420px;
-    border: 2px solid #222;
-    padding: 25px;
-    border-radius: 24px;
-    box-sizing: border-box;
-    box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+    border: 1px solid #e2e8f0;
+    padding: 28px 20px;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05), 0 8px 10px -6px rgba(0, 0, 0, 0.01);
 }
 
 .intestazione-brand {
     text-align: center;
-    margin-bottom: 25px;
+    margin-bottom: 28px;
 }
 
 .logo {
-    font-weight: 900;
-    font-size: 32px;
-    color: #fff;
-    letter-spacing: -1.5px;
+    font-weight: 800;
+    font-size: 26px;
+    color: #1e3a8a;
+    letter-spacing: -0.5px;
     text-transform: uppercase;
 }
 
 h1 {
-    font-size: 15px;
-    margin: 8px 0;
-    color: #4986f7;
+    font-size: 12px;
+    margin-top: 6px;
+    color: #2563eb;
+    background-color: #eff6ff;
     display: inline-block;
-    padding: 4px 12px;
-    border-radius: 100px;
-    letter-spacing: 1px;
-    font-weight: 800;
+    padding: 6px 14px;
+    border-radius: 20px;
+    letter-spacing: 0.8px;
+    font-weight: 700;
+    border: 1px solid #dbeafe;
 }
 
 .titolo-timer {
-    font-size: 13px;
-    font-weight: 800;
-    color: #4986f7;
+    font-size: 11px;
+    font-weight: 700;
+    color: #2563eb;
     text-transform: uppercase;
-    letter-spacing: 1px;
-    margin-bottom: 10px;
-    text-align: center;
+    letter-spacing: 0.8px;
+    margin-bottom: 8px;
+    text-align: left;
+    padding-left: 2px;
 }
 
 .timer-principale {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 10px;
-    margin-bottom: 25px;
+    gap: 8px;
+    margin-bottom: 22px;
 }
 
 .slot-tempo {
-    border: 1px solid #222;
-    padding: 15px 0;
+    border: 1px solid #e2e8f0;
+    padding: 12px 0;
     text-align: center;
-    background: #1a1a1a;
-    border-radius: 16px;
+    background: #f8fafc;
+    border-radius: 12px;
 }
 
 .numero {
-    font-size: 32px;
+    font-size: 26px;
     font-weight: 800;
-    color: #fff;
+    color: #1e293b;
     font-variant-numeric: tabular-nums;
+    line-height: 1.1;
 }
 
 .numero1 {
-    font-size: 32px;
+    font-size: 26px;
     font-weight: 800;
-    color: #4c7af7;
+    color: #2563eb;
     font-variant-numeric: tabular-nums;
+    line-height: 1.1;
 }
 
 .etichetta {
-    font-size: 11px;
+    font-size: 10px;
     font-weight: 700;
-    color: #555;
+    color: #64748b;
     margin-top: 4px;
     letter-spacing: 0.5px;
 }
