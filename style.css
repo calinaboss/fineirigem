@@ -15,12 +15,11 @@ body {
 }
 
 .contenitore-app {
-    background: #ffffff;
+    background: #bebebe;
     width: 100%;
     max-width: 420px;
     border: 1px solid #e2e8f0;
     padding: 28px 20px;
-    border-radius: 20px;
     box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05), 0 8px 10px -6px rgba(0, 0, 0, 0.01);
 }
 
@@ -69,11 +68,9 @@ h1 {
 }
 
 .slot-tempo {
-    border: 1px solid #e2e8f0;
     padding: 12px 0;
     text-align: center;
-    background: #f8fafc;
-    border-radius: 12px;
+    
 }
 
 .numero {
