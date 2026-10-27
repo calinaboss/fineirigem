@@ -18,3 +18,4 @@
 <!-- 17 : salvate prove -->
 <!-- 18 : controllo script -->
 <!-- 19 : test rapido -->
+<!-- 20 : aggiornato stato -->
