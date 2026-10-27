@@ -34,3 +34,4 @@
 <!-- 33 : salvataggio note scuola -->
 <!-- 34 : aggiornati appunti -->
 <!-- 35 : revisione compiti -->
+<!-- 36 : check codice -->
