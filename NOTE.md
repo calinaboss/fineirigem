@@ -38,3 +38,4 @@
 <!-- 37 : piccolo appunto -->
 <!-- 38 : aggiornamento file note -->
 <!-- 39 : salvate prove -->
+<!-- 40 : controllo script -->
