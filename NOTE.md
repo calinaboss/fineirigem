@@ -13,3 +13,4 @@
 <!-- 12 : aggiornati appunti -->
 <!-- 13 : revisione compiti -->
 <!-- 14 : check codice -->
+<!-- 15 : piccolo appunto -->
