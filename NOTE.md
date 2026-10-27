@@ -27,3 +27,4 @@
 <!-- 26 : piccolo appunto -->
 <!-- 27 : aggiornamento file note -->
 <!-- 28 : salvate prove -->
+<!-- 29 : controllo script -->
