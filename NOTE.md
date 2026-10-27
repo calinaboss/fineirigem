@@ -16,3 +16,4 @@
 <!-- 15 : piccolo appunto -->
 <!-- 16 : aggiornamento file note -->
 <!-- 17 : salvate prove -->
+<!-- 18 : controllo script -->
