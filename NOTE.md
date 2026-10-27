@@ -24,3 +24,4 @@
 <!-- 23 : aggiornati appunti -->
 <!-- 24 : revisione compiti -->
 <!-- 25 : check codice -->
+<!-- 26 : piccolo appunto -->
