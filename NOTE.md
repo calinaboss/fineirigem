@@ -36,3 +36,4 @@
 <!-- 35 : revisione compiti -->
 <!-- 36 : check codice -->
 <!-- 37 : piccolo appunto -->
+<!-- 38 : aggiornamento file note -->
