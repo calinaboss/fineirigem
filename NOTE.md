@@ -66,3 +66,4 @@
 <!-- 4 : controllo note -->
 <!-- 5 : test rapido -->
 <!-- 6 : aggiornamento memo -->
+<!-- 7 : verifica note -->
