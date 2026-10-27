@@ -5,3 +5,4 @@
 <!-- 4 : piccolo appunto -->
 <!-- 5 : aggiornamento file note -->
 <!-- 6 : salvate prove -->
+<!-- 7 : controllo script -->
