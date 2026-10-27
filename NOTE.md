@@ -20,3 +20,4 @@
 <!-- 19 : test rapido -->
 <!-- 20 : aggiornato stato -->
 <!-- 21 : revisione finale -->
+<!-- 22 : salvataggio note scuola -->
