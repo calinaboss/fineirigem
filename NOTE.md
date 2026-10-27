@@ -40,3 +40,4 @@
 <!-- 39 : salvate prove -->
 <!-- 40 : controllo script -->
 <!-- 41 : test rapido -->
+<!-- 42 : aggiornato stato -->
