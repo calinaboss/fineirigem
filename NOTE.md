@@ -59,3 +59,4 @@
 <!-- 58 : check codice -->
 <!-- 59 : piccolo appunto -->
 <!-- 60 : aggiornamento file note -->
+<!-- 0 : aggiornati appunti veloci -->
