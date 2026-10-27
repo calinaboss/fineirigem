@@ -6,3 +6,4 @@
 <!-- 5 : aggiornamento file note -->
 <!-- 6 : salvate prove -->
 <!-- 7 : controllo script -->
+<!-- 8 : test rapido -->
